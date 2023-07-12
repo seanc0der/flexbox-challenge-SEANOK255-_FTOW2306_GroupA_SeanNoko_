@@ -1,11 +1,13 @@
 .parent {
-    height: 50vh;
-
-    /* add solution here */
+	height: 50vh;
+	display: flex;
+	justify-content: center;
+	align-items: end;
+	/* add solution here */
 }
 
 .child {
-    background-color: darkolivegreen;
-    color: white;
-    padding: 1rem;
+	background-color: darkolivegreen;
+	color: white;
+	padding: 1rem;
 }
